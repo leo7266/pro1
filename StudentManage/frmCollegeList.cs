@@ -27,6 +27,6 @@ namespace StudentManage
             }
             return frmcollegeList;
         }
-
+         
     }
 }
